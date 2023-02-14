@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1671457693 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1671506421 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\programming exercises.c
+	<stdio.h>
+	<stdlib.h>
+
+1676392924 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\tutorials.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1671503135 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\tutorial 2.c
+	<stdio.h>
+	<stdlib.h>
+
+1672563669 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\tutorial3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1674120145 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\c program questions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1674129366 source:c:\users\kikaa\onedrive\desktop\w3 c tutorials\untitled3.c
+	<stdio.h>
+
